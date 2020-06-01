@@ -1,0 +1,45 @@
+.full{
+	background-color: #dbdbdb;
+	margin: 50px;
+}
+.top-content{
+	width: 80%;
+	margin:50px auto 50px auto;
+	text-align: center; 
+}
+.hello{
+     padding-top: 50px;
+}
+.about{
+	border: solid #85a392;
+	width: 80%;
+	margin: auto;
+	line-height: 1;
+	text-align: center;
+}
+.img{
+	width: 80%;
+	margin: 30px auto 30px auto;
+	border-style: solid;
+	text-align: center;
+}
+#special{
+	border-style: solid;
+	background-color: white;
+	padding: 10px 10px;
+	margin: 10px 10px;
+
+}
+.best{
+	width: 95%;
+	margin-top: 10px;
+
+}
+.desc{
+	width: 80%;
+	margin: 50px;
+}
+#wiki{
+	text-align: center;
+	padding-bottom: 30px;
+}
